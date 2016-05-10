@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "OGJS stands for OpenGame.js, a loose collection of my open source game engine, framework and utility code.",
   "main": "index.js",
+  "system": {
+    "main": "",
+    "directories": {
+    }
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/cmvanb/OGJS-TemplateGame/issues"
   },
-  "homepage": "https://github.com/cmvanb/OGJS-TemplateGame#readme"
+  "homepage": "https://github.com/cmvanb/OGJS-TemplateGame#readme",
+  "devDependencies": {
+    "steal": "^0.16.2"
+  }
 }
