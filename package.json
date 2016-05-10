@@ -1,0 +1,19 @@
+{
+  "name": "ogjs-templategame",
+  "version": "1.0.0",
+  "description": "OGJS stands for OpenGame.js, a loose collection of my open source game engine, framework and utility code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmvanb/OGJS-TemplateGame.git"
+  },
+  "author": "cmvanb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cmvanb/OGJS-TemplateGame/issues"
+  },
+  "homepage": "https://github.com/cmvanb/OGJS-TemplateGame#readme"
+}
